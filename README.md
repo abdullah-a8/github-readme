@@ -73,17 +73,27 @@ Your fork becomes the public asset repo that stores the generated SVGs. Example:
 
 - `your-username/github-readme`
 
-### 2. Add the Actions secret
+### 2. Create a personal access token
 
-In `your-username/github-readme`:
+In your GitHub account settings (not this repo):
+
+1. Go to `Settings -> Developer settings -> Personal access tokens -> Tokens (classic)`
+2. Click `Generate new token (classic)`
+3. Name it, then generate and copy the token
+
+If you want private contributions included, use a token with enough access to read them.
+
+### 3. Add the token as an Actions secret
+
+In your fork (`your-username/github-readme`):
 
 1. Go to `Settings -> Secrets and variables -> Actions`
 2. Create a repository secret named `GH_README_TOKEN`
-3. Paste a GitHub personal access token
+3. Paste the token from the previous step
 
-If you want private contributions included, use a token with enough access to read them. If the secret is missing, the workflow falls back to the built-in `GITHUB_TOKEN`, which is usually only good for public-only data.
+If the secret is missing, the workflow falls back to the built-in `GITHUB_TOKEN`, which is usually only good for public-only data.
 
-### 3. Enable Actions
+### 4. Enable Actions
 
 In the repo:
 
@@ -95,7 +105,7 @@ After that, the workflow also runs every day on this schedule:
 
 - `17 6 * * *` UTC
 
-### 4. Make sure your fork is public
+### 5. Make sure your fork is public
 
 The asset repo must be public, or the raw SVG URLs will return `404`.
 
