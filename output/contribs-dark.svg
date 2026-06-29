@@ -694,13 +694,15 @@
 <polygon points="552.54,248.99 563.82,253.09 552.54,257.20 541.26,253.09" fill="#161b22"/>
 <polygon points="578.85,248.99 590.13,253.09 578.85,257.20 567.57,253.09" fill="#161b22"/>
 <polygon points="605.16,248.99 616.44,253.09 605.16,257.20 593.89,253.09" fill="#161b22"/>
-<polygon points="684.10,248.99 695.37,253.09 684.10,257.20 672.82,253.09" fill="#161b22"/>
 <polygon points="631.47,240.99 642.75,245.09 631.47,249.20 620.20,245.09" fill="#0e4429"/>
 <polygon points="620.20,253.09 620.20,245.09 631.47,249.20 631.47,257.20" fill="#0c3b24"/>
 <polygon points="631.47,257.20 631.47,249.20 642.75,245.09 642.75,253.09" fill="#0a321e"/>
 <polygon points="657.78,235.99 669.06,240.09 657.78,244.20 646.51,240.09" fill="#0e4429"/>
 <polygon points="646.51,253.09 646.51,240.09 657.78,244.20 657.78,257.20" fill="#0c3b24"/>
 <polygon points="657.78,257.20 657.78,244.20 669.06,240.09 669.06,253.09" fill="#0a321e"/>
+<polygon points="684.10,231.99 695.37,236.09 684.10,240.20 672.82,236.09" fill="#006d32"/>
+<polygon points="672.82,253.09 672.82,236.09 684.10,240.20 684.10,257.20" fill="#005f2c"/>
+<polygon points="684.10,257.20 684.10,240.20 695.37,236.09 695.37,253.09" fill="#005025"/>
 <polygon points="539.38,253.78 550.66,257.88 539.38,261.99 528.11,257.88" fill="#161b22"/>
 <polygon points="565.69,253.78 576.97,257.88 565.69,261.99 554.42,257.88" fill="#161b22"/>
 <polygon points="592.01,237.78 603.28,241.88 592.01,245.99 580.73,241.88" fill="#0e4429"/>
@@ -709,6 +711,9 @@
 <polygon points="618.32,239.78 629.59,243.88 618.32,247.99 607.04,243.88" fill="#0e4429"/>
 <polygon points="607.04,257.88 607.04,243.88 618.32,247.99 618.32,261.99" fill="#0c3b24"/>
 <polygon points="618.32,261.99 618.32,247.99 629.59,243.88 629.59,257.88" fill="#0a321e"/>
+<polygon points="670.94,245.78 682.22,249.88 670.94,253.99 659.66,249.88" fill="#0e4429"/>
+<polygon points="659.66,257.88 659.66,249.88 670.94,253.99 670.94,261.99" fill="#0c3b24"/>
+<polygon points="670.94,261.99 670.94,253.99 682.22,249.88 682.22,257.88" fill="#0a321e"/>
 <polygon points="644.63,235.78 655.91,239.88 644.63,243.99 633.35,239.88" fill="#26a641"/>
 <polygon points="633.35,257.88 633.35,239.88 644.63,243.99 644.63,261.99" fill="#219239"/>
 <polygon points="644.63,261.99 644.63,243.99 655.91,239.88 655.91,257.88" fill="#1c7a30"/>
@@ -732,11 +737,11 @@
 <polygon points="592.01,257.93 603.28,262.04 592.01,266.14 580.73,262.04" fill="#0e4429"/>
 <polygon points="580.73,277.04 580.73,262.04 592.01,266.14 592.01,281.14" fill="#0c3b24"/>
 <polygon points="592.01,281.14 592.01,266.14 603.28,262.04 603.28,277.04" fill="#0a321e"/>
-<text x="697.25" y="14.00" text-anchor="end" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="34" font-weight="700" fill="#39d353">808</text>
+<text x="697.25" y="14.00" text-anchor="end" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="34" font-weight="700" fill="#39d353">753</text>
 <text x="697.25" y="26.00" text-anchor="end" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="10" fill="#7d8590" letter-spacing="0.8">TOTAL CONTRIBUTIONS</text>
-<rect x="-92.09" y="222.71" width="12" height="16.59" rx="1" fill="#006d32"/>
+<rect x="-92.09" y="220.10" width="12" height="19.19" rx="1" fill="#006d32"/>
 <text x="-86.09" y="257.30" text-anchor="middle" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11" fill="#7d8590">S</text>
-<rect x="-76.09" y="202.21" width="12" height="37.08" rx="1" fill="#006d32"/>
+<rect x="-76.09" y="201.89" width="12" height="37.41" rx="1" fill="#006d32"/>
 <text x="-70.09" y="257.30" text-anchor="middle" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11" fill="#7d8590">M</text>
 <rect x="-60.09" y="193.75" width="12" height="45.54" rx="1" fill="#006d32"/>
 <text x="-54.09" y="257.30" text-anchor="middle" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11" fill="#7d8590">T</text>
